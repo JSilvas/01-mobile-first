@@ -1,0 +1,24 @@
+.site-header {
+    background:#FFECA5;
+}
+
+.nav-list-ul {
+    display: none;
+}
+ 
+nav:hover .nav-ul {
+    display: block;
+}
+
+.hamburger {
+    display: block;
+}
+
+@media only screen and (min-width: 640px) {
+    .nav-list-ul {
+        display: inline-block;
+    }
+    .hamburger {
+        display: none;
+    }
+}
