@@ -1,0 +1,14 @@
+* {
+  outline: orange 2px;
+	src:url('fonts/icomoon.eot?wfb79s');
+	src:url('fonts/icomoon.eot?wfb79s#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?wfb79s') format('truetype'),
+		url('fonts/icomoon.woff?wfb79s') format('woff'),
+		url('fonts/icomoon.svg?wfb79s#icomoon') format('svg');
+  font-family: 'icomoon';
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+  background-color: #FFE9A8;
+}
