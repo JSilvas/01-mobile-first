@@ -55,7 +55,7 @@ article {
         display: none;
         clear: both;
     }
-    
+
     nav:hover .nav-list-ul {
         display: block;
         list-style-type: none;
