@@ -25,15 +25,18 @@
 
 .icon-home:before {
 	content: "\e908";
+	color: gray;
 }
 .icon-home3:before {
 	content: "\e900";
+	color: gray;
 }
 .icon-address-book:before {
 	content: "\e901";
+	color: gray;
 }
 .icon-rocket:before {
-	content: "\e909";
+	content: "\e909";	
 }
 .icon-power:before {
 	content: "\e90a";
@@ -64,7 +67,9 @@
 }
 .icon-twitter3:before {
 	content: "\e906";
+	color: gray;
 }
 .icon-github:before {
 	content: "\e907";
+	color: gray;
 }
